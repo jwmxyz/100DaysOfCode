@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: 22/11/2018
+
+**Today's Progress**
+
+* Lots of reading - mainly WebPack and more NoSql Distilled.
+* Restarted another test project from scratch implementing webpack
+* Decided to move forward with preact without the dependencies of react - this could be interesting. Pure Preact FTW!
+
+**Thoughts:**
+
+* Slow down and learn thing slightly more in depth.
+* Also make sure to use up to date information. The days of `babel-loader-es2015` are long gone! Google sort your indexing!
+
 ### Day 2: 21/11/2018
 
 **Today's Progress**:
