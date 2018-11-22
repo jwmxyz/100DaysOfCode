@@ -5,6 +5,7 @@
 **Today's Progress**
 
 * Lots of reading - mainly WebPack and more NoSql Distilled.
+*   Understand the differences between `default exports` and `named exports`
 * Restarted another test project from scratch implementing webpack
 * Decided to move forward with preact without the dependencies of react - this could be interesting. Pure Preact FTW!
 
