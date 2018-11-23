@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 4: 23/11/2018
+
+**Todays Progress**
+
+* Read more about WebPack and the implementation of rules
+* Began building using SASS over just using and exisiting css framework.
+
+**Thoughts**
+
+* SASS is easier than I originally thought.
+* WebPack is a beautiful powerful tool that I should have used earlier.
+* Need to think more in depth about folder structure of files.
+
 ### Day 3: 22/11/2018
 
 **Today's Progress**
