@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: 24/11/2018
+
+**Todays Progress**
+
+* Worked on login page using css
+
+**Thoughts**
+
+* CSS looks good when you do a number of small features.
+* A lot of new properties have been added since I properly last looked at css.
+* Starting to appreciate small tweaks make a big difference.
+
 ### Day 4: 23/11/2018
 
 **Todays Progress**
