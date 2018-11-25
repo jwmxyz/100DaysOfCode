@@ -1,5 +1,48 @@
 # 100 Days Of Code - Log
 
+### Day 6: 25/11/2018
+
+**Todays Progress**
+* Played around with css transformations and transitions. 
+* Improved the login page ui by implementing feather icons.
+* Tried to implement and onclick function in preact using the latest syntax. Had a few issues which I need to look into and read around to solve.
+* Did a small amount of reading about SPA authentication.
+
+**Thoughts**
+* Having issues with preact when trying to call a function with the `onclick` method. Not sure why as the examples and reading material I followed the examples work fine with the syntax. It maybe that I missed something...
+
+```
+[WDS] Errors while compiling. Reload prevented. index.js:161:4
+./src/Pages/Login.js
+Module build failed: SyntaxError: C:\Users\John\Desktop\zero-to-preact-master\src\Pages\Login.js: Support for the experimental syntax 'classProperties' isn't currently enabled (9:11):
+
+   7 | 
+   8 | export default class Login extends Component {
+>  9 |     state = { loading: false };
+     |           ^
+  10 | 
+  11 |     login = (e) => {
+  12 |         let checked = !this.state.loading;
+
+Add @babel/plugin-proposal-class-properties (https://git.io/vb4SL) to the 'plugins' section of your Babel config to enable transformation.
+    at _class.raise (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:4028:15)
+    at _class.expectPlugin (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:5348:18)
+    at _class.parseClassProperty (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:8235:12)
+    at _class.pushClassProperty (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:8199:30)
+    at _class.parseClassMemberWithIsStatic (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:8138:14)
+    at _class.parseClassMember (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:8075:10)
+    at _class.parseClassBody (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:8030:12)
+    at _class.parseClass (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:7980:10)
+    at _class.parseExportDefaultExpression (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:8347:19)
+    at _class.parseExport (C:\Users\John\Desktop\zero-to-preact-master\node_modules\@babel\parser\lib\index.js:8298:31)
+ @ ./src/components/app.js 23:0-37
+ @ ./src/index.js
+ @ multi (webpack)-dev-server/client?http://localhost:8080 webpack/hot/dev-server ./src
+```
+
+Hmm.
+
+
 ### Day 5: 24/11/2018
 
 **Todays Progress**
