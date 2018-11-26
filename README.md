@@ -1,4 +1,24 @@
 # 100 Days Of Code - Log
+### Day 7: 26/11/2018
+
+**Todays progress**
+
+* Solved yesterdays problem by implementing the experimental/proposal version of babels class properties
+```
+plugins: [
+            '@babel/plugin-proposal-class-properties',
+            ["@babel/plugin-transform-react-jsx", { "pragma":"h" }]
+			]
+```
+* Started to look into states of components and how props can be passed backwards and forwards
+* Updated the login button to render a loader when the state is changed. This uses `keyframes` in css.
+
+**Thoughts**
+
+* Need to do more research into keyframes to understand their limitations and usages.
+* css can be powerful by itself and there is no need to rely on js to animate DOM elements.
+* States are confusing at first. Need to sit down and full understand the lifecycle of preact.
+* Quite glad I chose preact - with not much coverage its good to investigate and issue rather than have the answer handed to you.
 
 ### Day 6: 25/11/2018
 
