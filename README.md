@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 8: 27/11/2018
+
+**Todays progress**
+
+* Began looking into OAuth2 authentication
+* Set up a .NET Core simple api project
+
+**Thoughts**
+
+* Non.
+
+**Thoughts**
+
 ### Day 7: 26/11/2018
 
 **Todays progress**
