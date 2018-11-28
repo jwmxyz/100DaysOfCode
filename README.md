@@ -3,6 +3,18 @@
 
 **Todays progress**
 
+* Further work with 0auth
+* Reconfigured web application so the login method is passed.
+* Tried to hook the front end up with the api but having difficulty with the headers
+
+**Thoughts**
+
+* Something isn't configured correctly. When calling the API from postman the API correctly authorises and returns a token that I am expecting. When I add the `'Content-Type': 'application/json'` the request gets 404'ed.  
+
+* Non.
+
+**Todays progress**
+
 * Began looking into OAuth2 authentication
 * Set up a .NET Core simple api project
 
