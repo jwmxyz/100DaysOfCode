@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-### Day 8: 27/11/2018
+### Day 9: 28/11/2018
 
 **Todays progress**
 
@@ -11,7 +11,8 @@
 
 * Something isn't configured correctly. When calling the API from postman the API correctly authorises and returns a token that I am expecting. When I add the `'Content-Type': 'application/json'` the request gets 404'ed.  
 
-* Non.
+### Day 8: 27/11/2018
+
 
 **Todays progress**
 
