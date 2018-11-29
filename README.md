@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+### Day 10: 29/11/2018
+
+**Todays progress**
+
+* Busy IRL with an exam for my masters course.
+* Resolved the issue with the API erroring when sending with `Content-Type` headers.
+
+**Thoughts**
+* Need to understand cors more
+* Need to read into preflight requests more
+
 ### Day 9: 28/11/2018
 
 **Todays progress**
