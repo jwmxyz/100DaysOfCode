@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+
+### Day 10: 29/11/2018
+
+**Todays progress**
+
+* Another busy day IRL. Its friday!
+* Began developing my own authentication for the login of the application using `JWT` tokens and `claims` 
+
+
+
 ### Day 10: 29/11/2018
 
 **Todays progress**
