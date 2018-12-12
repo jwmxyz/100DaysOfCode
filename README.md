@@ -4,6 +4,13 @@
 
 **Todays progress**
 
+* Setup page authentication - kicks user back to login if not authenticated
+* Looking into token validation to ensure that token is valid.
+
+### Day 11: 30/11/2018
+
+**Todays progress**
+
 * Another busy day IRL. Its friday!
 * Began developing my own authentication for the login of the application using `JWT` tokens and `claims` 
 
