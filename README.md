@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 12: 13/12/2018
+### Day 13: 13/12/2018
+
+**Todays progress**
+
+* Further progress with claims and Oauth
+* integrated authorisation onto pages on front end based on Oauth token authentication
+
+### Day 12: 12/12/2018
 
 **Todays progress**
 
